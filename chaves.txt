@@ -1,0 +1,12 @@
+chaves do S3 - produção
+
+access key - AKIA24XIUCTP7FS6FDMI
+
+secret key - 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
+
+
+senha redis - ru8EVC4HHb4v0wBTitL5HpRjh43MUlGY
+
+endpoint - redis-15505.c256.us-east-1-2.ec2.cloud.redislabs.com:15505
+
+access key awscli - AKIA24XIUCTP5SOZV7F5

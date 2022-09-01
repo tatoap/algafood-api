@@ -1,0 +1,1 @@
+alter table produto change descricao descricao varchar(225) not null;

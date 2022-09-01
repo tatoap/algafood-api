@@ -1,0 +1,6 @@
+chave de acesso Amazon S3
+
+AKIA24XIUCTPQAQH2CHE
+
+chave secreta
+mPvD4+978tUMWqoxzBRHeUQHdAMQIwEY6GC4+3ds

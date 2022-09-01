@@ -1,0 +1,87 @@
+{"properties": [
+  {
+    "name": "notificador.email.porta-servidor",
+    "type": "java.lang.String",
+    "description": "A description for 'notificador.email.porta-servidor'"
+  },
+  {
+    "name": "notificador.email.host-servidor",
+    "type": "java.lang.String",
+    "description": "A description for 'notificador.email.host-servidor'"
+  },
+  {
+    "name": "algafood.storage.local.diretorio-fotos",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.local.diretorio-fotos'"
+  },
+  {
+    "name": "algafood.storage.S3.id-chave-acesso",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.id-chave-acesso'"
+  },
+  {
+    "name": "algafood.storage.S3.id-chave-acesso-secreta",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.id-chave-acesso-secreta'"
+  },
+  {
+    "name": "algafood.storage.S3.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.bucket'"
+  },
+  {
+    "name": "algafood.storage.S3.regiao",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.regiao'"
+  },
+  {
+    "name": "algafood.storage.S3.diretorio-fotos",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.diretorio-fotos'"
+  },
+  {
+    "name": "algafood.storage.S3.chave-acesso-secreta",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.chave-acesso-secreta'"
+  },
+  {
+    "name": "algafood.storage.S3.regiao",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.regiao'"
+  },
+  {
+    "name": "algafood.storage.S3.regiao",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.regiao'"
+  },
+  {
+    "name": "algafood.storage.S3.chave-acesso-secreta",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.chave-acesso-secreta'"
+  },
+  {
+    "name": "algafood.storage.S3.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.bucket'"
+  },
+  {
+    "name": "algafood.storage.S3.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.S3.bucket'"
+  },
+  {
+    "name": "algafood.storage.tipo",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.storage.tipo'"
+  },
+  {
+    "name": "algafood.email.sandbox.destinatario",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.email.sandbox.destinatario'"
+  },
+  {
+    "name": "logging.loggly.token",
+    "type": "java.lang.String",
+    "description": "A description for 'logging.loggly.token'"
+  }
+]}
